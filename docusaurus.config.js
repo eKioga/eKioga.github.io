@@ -105,16 +105,16 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Notes',
-                to: '/docs/intro',
-              },
-            ],
-          },
+        //links: [
+        //  {
+        //    title: 'Docs',
+        //    items: [
+        //      {
+        //        label: 'Notes',
+        //        to: '/docs/intro',
+        //      },
+        //    ],
+        //  },
           //{
             //title: 'Community',
             //items: [
@@ -132,20 +132,20 @@ const config = {
               //},
             //],
           //},
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ekioga',
-              },
-            ],
-          },
-        ],
+          //{
+          //  title: 'More',
+          //  items: [
+          //    {
+          //      label: 'Blog',
+          //      to: '/blog',
+          //    },
+          //    {
+          //      label: 'GitHub',
+          //      href: 'https://github.com/ekioga',
+          //    },
+          //  ],
+          //},
+        //],
         copyright: `Copyright © ${new Date().getFullYear()} Eric Post: Things I say`,
       },
       prism: {
