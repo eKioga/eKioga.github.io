@@ -1,0 +1,14 @@
+gamedesign:
+  label: Game Design
+  permalink: /gamedesign
+  description: All things Game Design related.
+
+news:
+  label: News
+  permalink: /news
+  description: New stuff.
+
+selfhosting:
+  label: Self-Hosting
+  permalink: /selfhosting
+  description: Related to stuff I Self-Host.

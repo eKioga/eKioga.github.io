@@ -1,0 +1,11 @@
+eric:
+  name: Eric Post
+  title: Sr. Systems Administrator
+  url: https://linkedin.com/in/erickpost
+  image_url: https://raw.githubusercontent.com/eKioga/images/main/EricHeadShot-removebg.png
+  page: true
+  socials:
+    #x: eric
+    linkedin: erickpost
+    github: eKioga
+    #newsletter: https://www.greatfrontend.com
