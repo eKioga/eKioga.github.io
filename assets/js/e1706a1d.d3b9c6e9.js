@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkeric_post_things_i_say=globalThis.webpackChunkeric_post_things_i_say||[]).push([[6216],{3299:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ekioga.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":6,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

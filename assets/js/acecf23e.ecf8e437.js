@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkeric_post_things_i_say=globalThis.webpackChunkeric_post_things_i_say||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/ekioga.github.io/blog","blogTitle":"Blog","authorsListPath":"/ekioga.github.io/blog/authors"}')}}]);

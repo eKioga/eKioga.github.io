@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ekioga.github.io/docusaurus-blog/blog</id>
+    <id>https://ekioga.github.io/ekioga.github.io/blog</id>
     <title>Things I say Blog</title>
     <updated>2025-10-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ekioga.github.io/docusaurus-blog/blog"/>
+    <link rel="alternate" href="https://ekioga.github.io/ekioga.github.io/blog"/>
     <subtitle>Things I say Blog</subtitle>
-    <icon>https://ekioga.github.io/docusaurus-blog/img/favicon.ico</icon>
+    <icon>https://ekioga.github.io/ekioga.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Toe buttons and Home Assistant. Am I the only one doing this?]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/toe-buttons-and-home-assistant-am-i-the-only-one-doing-this</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/toe-buttons-and-home-assistant-am-i-the-only-one-doing-this"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/toe-buttons-and-home-assistant-am-i-the-only-one-doing-this</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/toe-buttons-and-home-assistant-am-i-the-only-one-doing-this"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've relied on Alexa for many years. It turns my TV on and off with my voice because I like to eat my pizza with a slice in each hand. I wouldn't have time to get anything done without it.]]></summary>
         <content type="html"><![CDATA[<p>I've relied on Alexa for many years. It turns my TV on and off with my voice because I like to eat my pizza with a slice in each hand. I wouldn't have time to get anything done without it.</p>
@@ -68,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[My Hardware & How it Has Evolved]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/my-hardware-how-it-has-evolved</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/my-hardware-how-it-has-evolved"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/my-hardware-how-it-has-evolved</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/my-hardware-how-it-has-evolved"/>
         <updated>2025-10-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Up until around 2008, I would be either hosting a Ventrillo server or some ad-hoc game server directly off my gaming rig. Before I learned about port-forwarding, I'd route the ethernet cable from the ISP modem directly into my desktop computer so all my friends can connect over. I'm not going to let some firewall tell me what I can and can't host! I was a dumb kid that reformatted his system almost weekly back then. I wonder why...]]></summary>
         <content type="html"><![CDATA[<p>Up until around 2008, I would be either hosting a Ventrillo server or some ad-hoc game server directly off my gaming rig. Before I learned about port-forwarding, I'd route the ethernet cable from the ISP modem directly into my desktop computer so all my friends can connect over. I'm not going to let some firewall tell me what I can and can't host! I was a dumb kid that reformatted his system almost weekly back then. I wonder why...</p>
@@ -163,14 +163,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[What I'm Hosting Right Now?]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now"/>
         <updated>2025-09-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A few years back, my wife and I decided to start messing around with game design as a hobby. My brain immediately time traveled to a future where we're working with contractors and publishers as a business entity.]]></summary>
         <content type="html"><![CDATA[<p>A few years back, my wife and I decided to start messing around with game design as a hobby. My brain immediately time traveled to a future where we're working with contractors and publishers as a business entity.</p>
 <p>A bit early for that? Absolutely. In response, I'll posit this: It's never too early to build out our studio's IT infrastructure! I then run off with my binder and pocket protector.</p>
 <p>I am a huge fan of workflows and tooling. Having a large practical problem like this to solve is a fun as eating ice cream. It's a long post, so please skip around.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="table-of-contents">Table of Contents<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#table-of-contents" class="hash-link" aria-label="Direct link to Table of Contents" title="Direct link to Table of Contents" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="table-of-contents">Table of Contents<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#table-of-contents" class="hash-link" aria-label="Direct link to Table of Contents" title="Direct link to Table of Contents" translate="no">​</a></h2>
 <ul>
 <li class=""><a href="https://eric-post.com/what-im-hosting-right-now/#network-apps" target="_blank" rel="noopener noreferrer" class="">Networking Apps</a></li>
 <li class=""><a href="https://eric-post.com/what-im-hosting-right-now/#identity-access" target="_blank" rel="noopener noreferrer" class="">Identity Access</a></li>
@@ -185,7 +185,7 @@
 <li class=""><a href="https://eric-post.com/what-im-hosting-right-now/#end-user-support" target="_blank" rel="noopener noreferrer" class="">End-user Support</a></li>
 <li class=""><a href="https://eric-post.com/what-im-hosting-right-now/#productivity-services" target="_blank" rel="noopener noreferrer" class="">Productivity Services</a></li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="network-apps">Network Apps<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#network-apps" class="hash-link" aria-label="Direct link to Network Apps" title="Direct link to Network Apps" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="network-apps">Network Apps<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#network-apps" class="hash-link" aria-label="Direct link to Network Apps" title="Direct link to Network Apps" translate="no">​</a></h2>
 <ul>
 <li class="">Nginx Proxy Manager<!-- -->
 <ul>
@@ -216,7 +216,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="identity-access">Identity Access<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#identity-access" class="hash-link" aria-label="Direct link to Identity Access" title="Direct link to Identity Access" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="identity-access">Identity Access<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#identity-access" class="hash-link" aria-label="Direct link to Identity Access" title="Direct link to Identity Access" translate="no">​</a></h2>
 <ul>
 <li class="">Pocket-ID<!-- -->
 <ul>
@@ -236,7 +236,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="monitoring">Monitoring<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#monitoring" class="hash-link" aria-label="Direct link to Monitoring" title="Direct link to Monitoring" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="monitoring">Monitoring<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#monitoring" class="hash-link" aria-label="Direct link to Monitoring" title="Direct link to Monitoring" translate="no">​</a></h2>
 <ul>
 <li class="">
 <p>Beszel</p>
@@ -255,7 +255,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="notifications">Notifications<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#notifications" class="hash-link" aria-label="Direct link to Notifications" title="Direct link to Notifications" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="notifications">Notifications<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#notifications" class="hash-link" aria-label="Direct link to Notifications" title="Direct link to Notifications" translate="no">​</a></h2>
 <ul>
 <li class="">Mailrise/Apprise/Pushover stack<!-- -->
 <ul>
@@ -265,7 +265,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai">AI<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#ai" class="hash-link" aria-label="Direct link to AI" title="Direct link to AI" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai">AI<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#ai" class="hash-link" aria-label="Direct link to AI" title="Direct link to AI" translate="no">​</a></h2>
 <p>Because it's 2025, and everybody should have their own private AI tools.</p>
 <ul>
 <li class="">
@@ -327,7 +327,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="container-management">Container Management<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#container-management" class="hash-link" aria-label="Direct link to Container Management" title="Direct link to Container Management" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="container-management">Container Management<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#container-management" class="hash-link" aria-label="Direct link to Container Management" title="Direct link to Container Management" translate="no">​</a></h2>
 <ul>
 <li class="">GitHub (The exception!)<!-- -->
 <ul>
@@ -394,7 +394,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="update-management">Update Management<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#update-management" class="hash-link" aria-label="Direct link to Update Management" title="Direct link to Update Management" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="update-management">Update Management<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#update-management" class="hash-link" aria-label="Direct link to Update Management" title="Direct link to Update Management" translate="no">​</a></h2>
 <ul>
 <li class="">
 <p>Containers</p>
@@ -432,7 +432,7 @@
 </li>
 </ul>
 <p>Other hosts like bare metal Unraid or my Synology NAS's send me push notifications when a new update is ready. I review them and get them installed during weekends. Way too critical for anything automatic.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="documentation">Documentation<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#documentation" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="documentation">Documentation<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#documentation" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation" translate="no">​</a></h2>
 <ul>
 <li class="">Blinko<!-- -->
 <ul>
@@ -457,7 +457,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="backup--disaster-recovery">Backup &amp; Disaster Recovery<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#backup--disaster-recovery" class="hash-link" aria-label="Direct link to Backup &amp; Disaster Recovery" title="Direct link to Backup &amp; Disaster Recovery" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="backup--disaster-recovery">Backup &amp; Disaster Recovery<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#backup--disaster-recovery" class="hash-link" aria-label="Direct link to Backup &amp; Disaster Recovery" title="Direct link to Backup &amp; Disaster Recovery" translate="no">​</a></h2>
 <p>Asset Drive</p>
 <ul>
 <li class="">
@@ -596,7 +596,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="security">Security<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="security">Security<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security" translate="no">​</a></h2>
 <p>KASM</p>
 <ul>
 <li class="">Web app running my Unraid (because of the GPU support) server that allows you to spin up temporary containers, from a full OS or just a single app like a web browser. You can download full operating systems and applications from the app store and get something up and running in seconds, then destroy it a minute later.</li>
@@ -608,7 +608,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="end-user-support">End-User Support<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#end-user-support" class="hash-link" aria-label="Direct link to End-User Support" title="Direct link to End-User Support" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="end-user-support">End-User Support<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#end-user-support" class="hash-link" aria-label="Direct link to End-User Support" title="Direct link to End-User Support" translate="no">​</a></h2>
 <ul>
 <li class="">RustDesk<!-- -->
 <ul>
@@ -618,7 +618,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="productivity-services">Productivity services<a href="https://ekioga.github.io/docusaurus-blog/blog/what-im-hosting-right-now#productivity-services" class="hash-link" aria-label="Direct link to Productivity services" title="Direct link to Productivity services" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="productivity-services">Productivity services<a href="https://ekioga.github.io/ekioga.github.io/blog/what-im-hosting-right-now#productivity-services" class="hash-link" aria-label="Direct link to Productivity services" title="Direct link to Productivity services" translate="no">​</a></h2>
 <ul>
 <li class="">The typical boring media PC related stuff that most people commonly self-host.</li>
 <li class="">Navidrome<!-- -->
@@ -715,8 +715,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Why do this at home?]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/why-do-this-at-home</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/why-do-this-at-home"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/why-do-this-at-home</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/why-do-this-at-home"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[For years, I thought the best IT workers were the ones who went home to do more IT for themselves. I was wrong!]]></summary>
         <content type="html"><![CDATA[<p>For years, I thought the best IT workers were the ones who went home to do more IT for themselves. I was wrong!</p>
@@ -742,8 +742,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[My Home Network]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/my-home-network</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/my-home-network"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/my-home-network</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/my-home-network"/>
         <updated>2025-07-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Look at those circles and square! What the heck is a Zigbee!?]]></summary>
         <content type="html"><![CDATA[<p>Look at those circles and square! What the heck is a Zigbee!?</p>
@@ -806,8 +806,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[eric-post.com is alive!]]></title>
-        <id>https://ekioga.github.io/docusaurus-blog/blog/eric-post.com-is-alive</id>
-        <link href="https://ekioga.github.io/docusaurus-blog/blog/eric-post.com-is-alive"/>
+        <id>https://ekioga.github.io/ekioga.github.io/blog/eric-post.com-is-alive</id>
+        <link href="https://ekioga.github.io/ekioga.github.io/blog/eric-post.com-is-alive"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I did it! The proof is right here!]]></summary>
         <content type="html"><![CDATA[<p>I did it! The proof is right here!</p>
